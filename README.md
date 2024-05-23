@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm Milan Pešić</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mptste&label=Profile%20views&color=0e75b6&style=flat" alt="mptste" /> </p>
-
 - 🌱 I’m currently learning **Java Spring**
 
 - 📫 How to reach me **milanpesic1995@protonmail.com**
@@ -16,3 +14,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mptste&show_icons=true&locale=en&layout=compact" alt="mptste" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mptste&" alt="mptste" /></p>
+
